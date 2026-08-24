@@ -1,0 +1,55 @@
+{
+  "name": "bch-exchange-rate",
+  "version": "1.2.7",
+  "description": "Official Banco Central de Honduras (Honduras) daily exchange rates — 1 currency vs HNL, history since 2019. Zero-dependency Node.js/TypeScript client.",
+  "keywords": [
+    "bch",
+    "banco",
+    "central",
+    "de",
+    "honduras",
+    "exchange-rate",
+    "exchange-rates",
+    "currency",
+    "forex",
+    "fx",
+    "hnl",
+    "central-bank",
+    "official-rates",
+    "honduras",
+    "api",
+    "typescript"
+  ],
+  "homepage": "https://allratestoday.com/central-bank-rates-api/bch/",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AllRates-Today/bch-exchange-rate.git"
+  },
+  "bugs": {
+    "url": "https://github.com/AllRates-Today/bch-exchange-rate/issues"
+  },
+  "license": "MIT",
+  "author": "AllRatesToday <hello@allratestoday.com> (https://allratestoday.com)",
+  "type": "module",
+  "main": "./index.cjs",
+  "module": "./index.mjs",
+  "types": "./index.d.ts",
+  "exports": {
+    ".": {
+      "types": "./index.d.ts",
+      "import": "./index.mjs",
+      "require": "./index.cjs"
+    }
+  },
+  "files": [
+    "index.mjs",
+    "index.cjs",
+    "index.d.ts",
+    "README.md",
+    "LICENSE"
+  ],
+  "engines": {
+    "node": ">=18"
+  },
+  "sideEffects": false
+}
