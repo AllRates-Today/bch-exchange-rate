@@ -1,6 +1,6 @@
 {
   "name": "bch-exchange-rate",
-  "version": "1.3.0",
+  "version": "1.3.1",
   "description": "Official Banco Central de Honduras (Honduras) daily exchange rates — 1 currency vs HNL, history since 2019. Zero-dependency Node.js/TypeScript client.",
   "keywords": [
     "bch",
