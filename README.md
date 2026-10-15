@@ -42,11 +42,11 @@ The open endpoint serves the *latest* table only and asks for a visible attribut
 The image is rendered live from the keyless endpoint above, so it follows the central bank's publications on npm and on GitHub alike without a new release. The text copy below is there for search and copy-paste: on GitHub [a daily Action](.github/workflows/daily-table.yml) refreshes it whenever the central bank publishes a new table; on npm it is as of the package's publish date.
 
 <!-- daily-table:start -->
-Published **2026-10-14** by Banco Central de Honduras — 1 rate. Updated 2026-10-14.
+Published **2026-10-15** by Banco Central de Honduras — 1 rate. Updated 2026-10-15.
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| USD | HNL | reference | 26.8927 |
+| USD | HNL | reference | 26.8943 |
 
 Source: [Official rates published by BCH, served by AllRatesToday](https://allratestoday.com/central-bank-rates-api/bch/). Rates are as printed by the central bank; AllRatesToday is not affiliated with it.
 <!-- daily-table:end -->
