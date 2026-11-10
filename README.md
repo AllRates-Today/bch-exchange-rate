@@ -32,11 +32,11 @@ The image is rendered live from the keyless endpoint, so it follows the central 
 
 <!-- daily-table:start -->
 <details>
-<summary>Table as text: published 2026-11-07 by Banco Central de Honduras — 1 rate. Updated 2026-11-09.</summary>
+<summary>Table as text: published 2026-11-10 by Banco Central de Honduras — 1 rate. Updated 2026-11-10.</summary>
 
 | Base | Quote | Type | Rate |
 | --- | --- | --- | ---: |
-| USD | HNL | reference | 26.9157 |
+| USD | HNL | reference | 26.9161 |
 
 </details>
 
